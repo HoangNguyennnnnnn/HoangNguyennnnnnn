@@ -1,5 +1,11 @@
 ## Hi there 👋
+🌱 Currently learning: Apache Spark, AWS, TensorFlow/PyTorch, and ML optimization techniques
+👯 Looking to collaborate on: computer vision, real-time analytics, AI chess game
+🤔 Seeking help with: model training on Colab, performance optimization
+💬 Ask me about: TensorFlow, PyTorch, Unity, Python
+📫 Contact: nthoangnguyen1308@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangNguyennnnnnn)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **HoangNguyennnnnnn/HoangNguyennnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
